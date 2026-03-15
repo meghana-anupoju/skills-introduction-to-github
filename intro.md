@@ -1,0 +1,1 @@
+Hi, I'm Meghana. I am a Computer Science student interested in AI, Machine Learning, and web development. I enjoy building innovative projects that solve real-world problems. I have worked on projects like a Movie Recommendation System and an AI Resume Screening & Ranking System. I am currently learning cloud computing, frontend development, and AI technologies.
